@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">职捕JobSnap</string>
+    <string name="accessibility_desc">用于在你浏览招聘软件（如BOSS直聘、猎聘等）时，点击右侧悬浮侧边栏即可识别当前屏幕上的岗位职责、任职要求与公司业务信息，并自动记录到求职投递表中。</string>
+</resources>
